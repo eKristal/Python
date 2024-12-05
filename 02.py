@@ -4,10 +4,14 @@
 Akna suurus 500×400
 Loo värvilised 50px olümpiarõngad (sinine, must, punane, kollane, roheline)
 Joone paksus 6
-Kiirus 0
-"""
+Kiirus 0"""
+
 
 import turtle
+
+aken= turtle.Screen()
+aken.setup(width=600, height=400)
+aken.title("Olümpiamängud Eliise Lisete Kristal")
 
 #sinine
 
