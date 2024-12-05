@@ -52,6 +52,6 @@ turtle.forward(kylje_pikkus)
 turtle.left(nurk)
 
 
-
+turtle.done()
 
 
