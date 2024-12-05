@@ -27,5 +27,6 @@ turtle.circle(50,180)
 turtle.fd(100)
 
 
+
 #lõpetab kilpkonna
 turtle.done()
