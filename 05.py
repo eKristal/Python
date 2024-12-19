@@ -80,6 +80,8 @@ try:
         print("Arvasid valesti!")
         turtle.color("Red")
         turtle.circle(50)
+    turtle.done()
+
         
 except:
     print("Viga sisestamisel!")
