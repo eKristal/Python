@@ -1,3 +1,4 @@
+
 #2. Ülesanne
 
 """Loo aken, mille nimi on “Olümpiarõngad ja sinu nimi”
