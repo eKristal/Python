@@ -43,9 +43,4 @@ for _ in range(1):
     turtle.forward(size)
     
     
-
-
-
-
-
-turtle.done()
+    turtle.done()
