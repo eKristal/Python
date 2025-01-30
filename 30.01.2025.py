@@ -36,4 +36,11 @@
 # print(f"Busside arv: {busside_arv}")
 # print(f"Viimases bussis on inimesi: {viimane_inim_arv}")
 
+# #Ül. "Äratus"
+
+
+# kordade_arv= int(input("kordade arv: "))
+
+# for i in range(kordade_arv):
+# print("Tõuse ja sära!")
 
