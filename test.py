@@ -10,8 +10,7 @@ for _ in range(6):
         turtle.forward(suurus)
         turtle.left(120)
     
-    turtle.backward(suurus)  
+    turtle.backward(suurus)
 
 
 turtle.done()
-
