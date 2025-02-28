@@ -31,7 +31,7 @@
 # else: 
 #     print("Vale vastus, proovi uuesti.")
 
-#Ülesanne 5.3 (Mündiviskamise äraarvamine koos juhuslikkusega)
+# Ülesanne 5.3 (Mündiviskamise äraarvamine koos juhuslikkusega)
 
 # import random
 # import turtle
