@@ -49,3 +49,8 @@
 #     print("Vale vastus! Õige vastus oleks olnud:", õige_vastus)
 
 
+    
+
+
+
+
